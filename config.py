@@ -1,3 +1,3 @@
 blacklist = '686489176'
-owner = 468437664
-token = '680628223:AAHf-k32Uoas41uLj1i_mznUa1wKzCJviRI' #Даже не пытайтесь, токен сбросил ;D
+owner = 144046817
+token = '1618308531:AAHcculpbOkaGvQFW2gIw3Jb4F4XvVq8hj4' 
